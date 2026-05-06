@@ -1,0 +1,10 @@
+{
+  "table": "disruptionandresponseevents",
+  "columns": [
+    {
+      "name": "Action",
+      "type": "Description",
+      "description": "Defense strategy"
+    }
+  ]
+}
